@@ -2,8 +2,11 @@ Mengerjakan Tugas blank on
 yang berisi
 
 /contacts
+
 /contacts/create
+
 /contacts/id
+
 /companies
 
 menggunakan laravel
